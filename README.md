@@ -11,6 +11,7 @@
 6. Data Visualization
    
 🔶 Insights :
+
 1.Individuals aged between 26 and 35 demonstrate the highest attrition rates within the organization.
 
 2.Salary may be a significant factor contributing to attrition, particularly for employees earning up to 5K.
