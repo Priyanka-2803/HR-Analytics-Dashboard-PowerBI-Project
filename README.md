@@ -22,6 +22,6 @@
 
 5.Attrition also correlates with marital status and gender.
 
-PROJECT LEARNINGS:
-Developed interactive dashboard,Used complex parameters to drill down in worksheet and customization using filters and slicers,Calculations to manipulate data and enable user driven parameters for visualizations,Used different types of charts for visualizations (bar chart,donut chart,clustered bar chart,area chart , slicers )
+🔶 Project Learnings :
 
+▪ Developed interactive dashboard ▪ Used complex parameters to drill down in worksheet and customization using filters and slicers ▪ Calculations to manipulate data and enable user driven parameters for visualizations ▪ Used different types of charts for visualizations (Bar chart, Donut chart, Clustered bar chart, Area chart , Slice)
